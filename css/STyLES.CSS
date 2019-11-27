@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+  margin: 0;
+  background-color: #e6f8f9;
+}
+.navbar {
+  font-family: cursive;
+  margin-top: 20px;
+  margin-right: 40px;
+  padding: 10px;
+  position: absolute;
+  right: 40px;
+}
+.text{
+  bottom: 300px;
+  position: absolute;
+left: 500px;
+}
+.top {
+
+  position: absolute;
+  bottom: 450px;
+  left:100px;
+  background-color: #e6f8f9;
+}
+
+.top1 {
+  bottom: 150px;
+  right: 60px;
+  position: absolute;
+  background-color: #e6f8f9;
+}
+
+
+.tree {
+  background-color: #e6f8f9;
+  position: absolute;
+  top: 400px;
+  left: 400px;
+}
+
+.second {
+  background-color: white;
+  position: relative;
+  top: 660px;
+  height: 652px
+}
